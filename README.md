@@ -6,7 +6,7 @@
  
 Welcome to my Github page! I am MrPingot and I am currently Learning C++ and Javascript!  
  
-<img align="right" alt="img" src="https://github.com/MrPingot/MrPingot/blob/main/img/pic.gif" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/MrPingot/MrPingot/blob/main/MyGO!!!!!.gif" width="50%" height="auto" />
  
  
 #### 🌱 Things I am currently working on 🌱 : 
