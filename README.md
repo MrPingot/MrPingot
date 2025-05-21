@@ -8,7 +8,7 @@ Welcome to my GitHub page! I am MrPingot, and I’m currently learning C++ and J
 <img align="right" alt="img" src="https://github.com/MrPingot/MrPingot/blob/main/MyGO!!!!!.gif" width="50%" height="auto" />
 
 #### 🌱 Current Projects 🌱:
-- Pursuing a degree in Materials Science and Engineering at National Dong Hwa University
+- Pursuing a degree in electronic and electrical engineering at National Yang Ming Chiao Tung University
 - Exploring online programming courses
 
 #### ⚡ My Recent Interests ⚡:
